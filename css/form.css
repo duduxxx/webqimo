@@ -1,0 +1,250 @@
+﻿body{
+	background-color:#b2e9ff;
+    font-size:12px;
+    line-height:120%;
+    color:#1d2d45;
+}
+
+h1{
+	text-align:center;
+}
+.A-body{
+	text-align:center;
+    border-collapse:separate;
+    border-spacing:1px;
+    margin:20px auto 40px auto;
+    width:75%;
+}
+.headtitle{
+	margin:0 auto;
+    width:100%;
+    padding-top:1px;
+}
+table{
+	border-spacing:0px;
+}
+td.MYD{
+	border-bottom:2px solid #e33b3d;
+    color:#666;
+    text-align:center;
+    height:43px;
+    overflow:hidden;
+    background-image:url(../img/表单.jpg);
+	background-repeat:no-repeat;
+	background-position:0px 2px;
+    background-size:165px auto;
+}
+td.MYD h1{
+	text-align:left;
+    margin-left:190px;
+    font-size:22px;
+    font-family:"Microsoft Yahei";
+    font-weight:normal;
+    padding-bottom:5px;
+	padding-top:12px;
+}
+.content{
+	text-align:left;
+    padding:20px 65px 15px 35px;
+}
+.welcome{
+	line-height:15px;
+    text-align:left;
+}
+.welcome1{
+	color:#333333;
+    display:none; 
+}
+.idea1{
+	width:100%;
+    margin:0 0 2px 0;
+    border:0 none;
+    border-collapse:collapse;
+    background-color:#fff;
+}
+.f1{
+	width:100%;
+    margin:0 auto 10px auto;
+    border:1px solid #cce8ff;
+    padding:1px;
+    background-color:#ffffff;
+	border-spacing:0px;
+}
+.danxuan{
+	font-family:verdana;
+    font-size:12px;
+    font-weight:bold;
+    background-color:#eef6ff;
+    text-align:left;
+    padding:6px 10px;
+	margin-bottom:30px;
+}
+.xing{
+	color:red;
+    font-size:9px;
+    font-family:verdana;
+    margin-right:5px;
+}
+.question{
+	font-family:verdana;
+    font-size:12px;
+    font-weight:bold;
+    background-color:#eef6ff;
+    text-align:left;
+    padding:6px 10px;
+	margin-right:5px;
+}
+.questionhelp{
+	font-size:10px;
+    font-style:italic;
+}
+
+input{
+	vertical-align:top !important;
+    margin-top:2px;
+}
+.A-item{
+    list-style-type:none;
+    text-align:left;
+    margin:0% 0% 0.5em 0.5em;	
+}
+.text1{
+	display:inline-block;
+    vertical-align:middle;
+    text-align:left;
+}
+.s1{
+	width:100%;
+    margin:0 auto 10px auto;
+    border:1px solid #cce8ff;
+    padding:1px;
+    background-color:#ffffff;
+}
+.text2{
+	font-family:verdana;
+    font-size:12px;
+    font-weight:bold;
+    background-color:#eef6ff;
+    text-align:left;
+    padding:6px 10px;
+}
+.answer{
+	padding:11px 24px 16px 37px;
+    text-align:left;
+}
+.kongbai textarea{
+	margin-top:10px;
+    margin-bottom:10px;
+    margin-right:10px;
+	margin-left:1em;
+	outline:none;
+}
+.colection{
+	width:100%;
+    margin:0 0 2px 0;
+    border:0 none;
+    border-collapse:collapse;
+    background-color:#fff;
+}
+.yonghu-title{
+	font-size:16px;
+    font-weight:bold;
+}
+.C-content_{
+	width:100%;
+    margin:0 auto 10px auto;
+    border:1px solid #cce8ff;
+    padding:1px;
+    background-color:#ffffff;
+}
+.C-title{
+	float:left;
+}
+.text p{
+	font-style:normal;
+    font-weight:normal;
+}
+.text{
+	font-family:verdana;
+    font-size:12px;
+    font-weight:bold;
+    background-color:#eef6ff;
+    text-align:left;
+    padding:6px 10px;
+}
+.answer{
+	padding:11px 24px 16px 37px;
+    text-align:left;
+}
+.B-item{
+	list-style-type:none;
+    text-align:left;
+    margin:0% 0% 0.5em 0.5em;
+	display:table-row;
+} 
+.B-item li input{
+	vertical-align:middle;
+	padding:0.3em 1em 0% 0%;
+    display:table-cell;
+	border-style:inset;
+	border-width:2px;
+}
+.B-item li label{
+	vertical-align:middle;
+    padding:0.3em 1em 0% 0%;
+    display:table-cell;
+	
+}
+.name{
+	margin-left:30px;
+	outline:none;
+	border-style:inset;
+	border-color:#fff;
+	border-width:2px;
+	
+}
+.B-item span{
+	padding:0.3em 0% 0% 1em;
+    display:table-cell;
+    vertical-align:baseline;
+    white-space:nowrap;
+}
+.submit{
+	width:100%;
+    margin:0;
+    padding:1px;
+	text-align:center;
+}
+.submit1{
+	text-align:center;
+    width:100%;
+    background-color:#eef6ff;
+}
+.submit2{
+	display:inline-block;
+    position:relative;
+    padding:0;
+    margin-right:0.1em;
+    text-decoration:none;
+    cursor:pointer;
+    text-align:center;
+    overflow:visible;
+	border-radius:8px;
+	border:1px solid #eef6ff;
+	background-color:#cde7ff;
+	border-width:1px;
+	border-color:#74b2e2;
+	border-style:solid;
+	font-weight:bold;
+	color:#0070a3;
+}
+.submit_ input{
+	border-width:1px;
+	border-color:#74b2e2;
+	border-style:solid;
+}
+.s-text{
+	padding:.4em 1em;
+    display:block;
+    line-height:1.4;
+}

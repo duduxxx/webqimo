@@ -1,0 +1,55 @@
+body{
+	background-color:#cee7f1;
+}
+h1{
+	text-align:center;
+	font-size:40px;
+	font-weight:bold;
+}
+
+.intro{
+	width:1000px;
+	height:92px;
+	background-color:#fff;
+	border-radius:15px;
+	margin-left:175px;
+}
+
+.intro1{
+	width:700px;
+	height:90px;
+	margin-left:150px;
+	font-family:STZhongSong;
+}
+
+.xian{
+	width:400px;
+	height:600px;
+	margin-top:30px;
+}
+
+.shennongjia{
+	width:400px;
+	height:600px;
+	margin-left:475px;
+	margin-top:-618px;
+}
+
+.beijing{
+	width:350px;
+	height:600px;
+    margin-left:1000px;
+	margin-top:-618px;
+}
+
+.beijing p{
+	width:300px;
+}
+.jieshao{
+	margin-left:250px;
+	margin-top:-460px;
+	width:180px;
+}
+.bottom p{
+	font-size:40px;
+}

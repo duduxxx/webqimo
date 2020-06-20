@@ -1,0 +1,43 @@
+body{
+	background-color:#8fb9e4;
+}
+
+.title{
+	width:1000px;
+	height:80px;
+	background-color:#000000;
+	border-radius:20px;
+	opacity:0.5;
+	margin-left:170px;
+}
+li{
+	font-family:STHei;
+	font-size:22px;
+}
+
+.tiedao{
+	width:850px;
+	height:470px;
+	margin-left:40px;
+	border:2px solid #fff;
+}
+.gugong{
+	width:360px;
+	height:480px;
+	margin-left:950px;
+	margin-top:-300px;
+	border:2px solid #fff;
+}
+.huanlegu{
+	width:360px;
+	height:180px;
+	margin-left:950px;
+	margin-top:-700px;
+	border:2px solid #fff;
+	}
+.table{
+	width:800px;
+	height:150px;
+	margin-left:300px;
+	margin-top:600px;
+}
